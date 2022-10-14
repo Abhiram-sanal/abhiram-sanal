@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram-sanal&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram" /> </p>
 
-- 🔭 I’m currently working on **Fixing My Life**
+- 🔭 I’m currently  **learning life**
 
-- 🌱 I’m currently learning **Python and MySQL**
+- 🌱 I’m currently learning **C and MySQL**
 
 - 👯 I’m looking to collaborate on **Account check bot**
 
